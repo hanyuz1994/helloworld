@@ -2,3 +2,5 @@ helloword
 i hate you
 but i will 
 lve me
+the test for rebase.
+i love you so much
