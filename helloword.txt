@@ -3,7 +3,4 @@ i hate you
 but i will 
 lve me
 the test for rebase.
-<<<<<<< HEAD
 i love you so much
-=======
->>>>>>> this is a test for rebase by helloworld
